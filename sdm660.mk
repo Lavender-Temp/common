@@ -530,6 +530,10 @@ PRODUCT_PACKAGES += \
     libsqlite.vendor \
     libssl.vendor
 
+# Remove Packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # RIL
 PRODUCT_PACKAGES += \
     extphonelib \
