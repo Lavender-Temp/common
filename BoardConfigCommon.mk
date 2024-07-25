@@ -256,4 +256,4 @@ WIFI_HIDL_UNIFIED_SUPPLICANT_SERVICE_RC_ENTRY := true
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit the proprietary files
--include vendor/xiaomi/sdm660-common/BoardConfigVendor.mk
+-include vendor/xiaomi/lavender/BoardConfigVendor.mk
